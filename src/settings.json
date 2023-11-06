@@ -1,0 +1,10 @@
+{
+  "ShowLog": false,
+  "Headers": ["", ""],
+  "Contents": [""],
+  "Emails": ["karem.ali@dphish.com"],
+  "ApiUrls": ["{url}/report?rid={rid}"],
+  "dphishURL": "demo.dphish.com/api/",
+  "detectApi": "detect/addin/"
+}
+
